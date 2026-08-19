@@ -38,7 +38,7 @@ We trained and evaluated 5 different regression models. **XGBoost** and **Tuned 
 | Decision Tree | 1.6932 | 5.9486 | 2.4390 | 0.5036 |
 | Linear Regression | 1.5841 | 4.9693 | 2.2292 | 0.5853 |
 | Polynomial Regression (deg 2) | 1.5223 | 4.9282 | 2.2199 | 0.5887 |
-| **Random Forest (Tuned) 🥇** | **1.5093** | **4.8279** | **2.1973** | **0.5971** |
-| **XGBoost**| **1.5097** | 4.8166 | 2.1947 | 0.5980 |
+| **Random Forest (Tuned) ** | **1.5093** | **4.8279** | **2.1973** | **0.5971** |
+| **XGBoost**| **1.5097** | **4.8166** | **2.1947** | **0.5980** |
 
-"While XGBoost achieved a marginally higher Test R² (0.5980 vs 0.5971), the Tuned Random Forest demonstrated a smaller train-test performance gap (~10.7% vs ~13.8%). This indicates that the Random Forest model generalizes better to unseen data with less risk of overfitting, making it the most robust choice for this dataset."
+XGBoost achieved the best test R² and RMSE, but only by a very small margin. Random Forest actually has the smaller train-test gap, so it shows less overfitting. Therefore, XGBoost has slightly better predictive performance on our test set, while Random Forest generalizes with a smaller train-test performance gap.
