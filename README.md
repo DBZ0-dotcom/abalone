@@ -7,14 +7,6 @@
 
 A comprehensive machine learning project to predict the age of abalone based on physical measurements. This project explores data preprocessing, outlier handling, feature engineering, and the comparison of multiple regression algorithms.
 
-## 📋 Table of Contents
-- [About the Project](#about-the-project)
-- [Dataset](#dataset)
-- [Methodology & Preprocessing](#methodology--preprocessing)
-- [Model Results](#model-results)
-- [How to Run](#how-to-run)
-- [Team](#team)
-
 ---
 
 ## 🎯 About the Project
