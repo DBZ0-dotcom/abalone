@@ -42,11 +42,7 @@ We trained and evaluated 5 different regression models. **XGBoost** and **Tuned 
 | **Random Forest (Tuned)** | **1.5093** | 4.8279 | 2.1973 | **0.5971** |
 | **XGBoost** 🥇 | **1.5097** | **4.8166** | **2.1947** | **0.5980** |
 
-### 📈 Actual vs Predicted (XGBoost / Random Forest)
-![Actual vs Predicted Scatter Plot](images/actual_vs_predicted.png)
-*The model shows a strong linear correlation between actual and predicted rings, with minor variance at the extreme ends of the age spectrum.*
 
----
 
 ## 💻 How to Run
 1. Clone the repository:
