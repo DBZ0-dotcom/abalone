@@ -40,11 +40,3 @@ We trained and evaluated 5 different regression models. **XGBoost** and **Tuned 
 | Polynomial Regression (deg 2) | 1.5223 | 4.9282 | 2.2199 | 0.5887 |
 | **Random Forest (Tuned)** | **1.5093** | 4.8279 | 2.1973 | **0.5971** |
 | **XGBoost** 🥇 | **1.5097** | **4.8166** | **2.1947** | **0.5980** |
-
-
-
-## 💻 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DBZ0-dotcom/abalone.git
-   cd abalone
