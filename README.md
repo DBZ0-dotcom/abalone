@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-red)](https://xgboost.readthedocs.io/)
-[![Status](https://img.shields.io/badge/Status-Complete-success)]()
 
 A comprehensive machine learning project to predict the age of abalone based on physical measurements. This project explores data preprocessing, outlier handling, feature engineering, and the comparison of multiple regression algorithms.
 
